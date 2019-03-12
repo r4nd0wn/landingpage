@@ -1,0 +1,15 @@
+html, body {
+    height: 100%;
+}
+.nibba, .jibba {
+    width: 50%;
+    height: 50%;
+    text-align: center;
+    align-content: center;
+}
+/*.nibba {
+    float: left;
+}
+.jibba {
+    float: right;
+}*/
